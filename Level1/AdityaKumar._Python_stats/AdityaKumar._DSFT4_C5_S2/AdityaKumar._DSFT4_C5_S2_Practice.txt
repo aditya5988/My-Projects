@@ -1,0 +1,92 @@
+Task 1
+a) 6C3*4C2 = 120
+b) 6C5=6
+c) (4C3*6C2)+(4C4*6C1)=66
+
+Task 2
+The cards of the hand are all distinct and order of cards doesn't matter. 
+52C5=2598960
+
+Task 3
+There are 3 winners and are has to be distinct
+So, 8P1*7P1*6P1=336
+
+Task 4
+Total number of ways= 15!
+Ways to arrange Jenny and david together = 14!*2!
+Total number of ways when they are not together= 15!-(14!*2!)
+
+= 14!(15-2)=14!*13=1133317785600(d)
+
+Task 5
+Total number of outcoms=36
+No. of favourable outcoms= (1,3),(3,1),(2,6),(6,2) =4
+probability = 4/36 =1/9
+
+Task 6
+Words = (7C3 *4C2)*5!=25200
+
+Task 7
+As owner is already a member 
+So total ways to select 5 members= 11C4 = 330
+
+Task 8
+Out of 25 bulbs 6 are defected. As 1 good bulb is taken out 18 good bulb remains.
+Probability of nxt good bulb = 18/24
+
+Task 9
+Total number of vehicls = 150
+Total number of cars = 80
+Total number of vans = 50
+Total number of lorries = 150-(80+50) = 20
+
+Probability of van leaving first = 50/150 = 1/3
+Probability of lorry leaving first = 20/150 = 2/15
+Now, if either of a van or lorry left first, there would be 149 vehicles
+So,probability of a car leaving second = 80/149
+
+Task 10
+Total frequency = 30
+a) Probability of 2 left handers= 8/30 = 4/15
+b) Probability of atleast 3 left handed students= (5+12+2)/30 = 19/30
+
+Task 11
+Area of square PQRS = 2X*2X = 4(x^2)
+Area of triangel ABR = 1/2*b*h = 1/2*x*x = (x^2)/2
+Probability of point lying inside the triangle ABR = Area of triangle/Area of square
+=((x^2)/2)/(4(x^2)) = 1/8
+
+Task 12
+Total number of probable outcoms = 36
+a) 0/36 = 0
+b) favourable outcoms = (1,3),(3,1),(2,2)
+probability = 3/36 = 1/12
+
+c) 1
+
+Task 13
+
+Total number of outcoms = 20 
+a) favourable outcoms=2,4,6,8,10,12,14,16,18,20
+probability = 10/20 = 1/2
+b) favourable outcoms = 3,6,9,12,15,18
+probability = 6/20 =3/10
+c) favourable outcoms = 2,3,5,7,11,13,17,19
+probability = 8/20 = 2/5
+d) favourable outcoms = 5,10,15,20
+probability = 4/20 =1/5
+
+Task 14
+No of total outcoms = 216
+Total number of favourable outcoms with sum 11 = 27
+Total number of favourable outcoms with sum 12 = 25
+
+Probability of dices with sum 11 = 27/216
+Probability of dices with sum 12 = 25/216
+
+Total sum of 11 is more probable after tossing the dice.
+
+
+
+
+
